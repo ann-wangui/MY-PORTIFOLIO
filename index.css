@@ -1,1 +1,105 @@
-readme.md
+img{ 
+    height: 400px;
+    width: 350px;
+    border-radius: 50%;
+    float: right;
+
+}
+.imagesec p{
+font-size: 30px;
+color: violet;
+margin-top: 10%;
+}
+.imagesec{
+    height: 600px;
+    background-color: greenyellow;
+    align-items: center;
+}
+.nav{
+    display: flex;
+
+
+}
+.nav ul{
+    display: flex;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 10%;
+
+
+}
+.about h2{
+    text-align: center;
+    color: indigo;
+    font-style: italic;
+
+}
+.about p{
+    text-align: center;
+    font-size: 30px;
+    margin-top:10% ;
+
+}
+.edu h2{
+    text-align: center;
+    color: indigo;
+    font-style: italic;
+    margin-top: 10%;
+
+}
+.edu p{
+    text-align: center;
+    font-size: 30px;
+    margin-top:10% ;
+
+}
+.project h2{
+    text-align: center;
+    color: indigo;
+    font-style: italic;
+
+}
+.project p{
+    text-align: center;
+    font-size: 30px;
+    margin-top:10% ;
+
+}
+
+.contacts h2{
+    text-align: center;
+    color: indigo;
+    font-style: italic;
+
+}
+.contacts p{
+    text-align: center;
+    font-size: 30px;
+    margin-top:10% ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
